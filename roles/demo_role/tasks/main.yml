@@ -1,0 +1,4 @@
+---
+- name: Print Hello from demo_role
+  debug:
+    msg: "Hello from demo_role on Rocky Linux!"
